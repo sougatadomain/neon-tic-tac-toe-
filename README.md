@@ -1,3 +1,4 @@
+
 # ⚡ Neon Tic Tac Toe
 
 A modern, neon-themed 2-player Tic Tac Toe game built with vanilla HTML, CSS, and JavaScript.
@@ -13,7 +14,7 @@ A modern, neon-themed 2-player Tic Tac Toe game built with vanilla HTML, CSS, an
 - ✏️ Editable player names
 
 ## 🚀 Live Demo
-[Play Now](https://YOUR-USERNAME.github.io/neon-tictactoe)
+[Play Now](https://sougatadomain.github.io/neon-tictactoe)
 
 ## 🛠️ Tech Stack
 - HTML5 Canvas (confetti)
